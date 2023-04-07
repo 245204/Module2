@@ -1,0 +1,20 @@
+.myclass{
+    margin: auto;
+    background-color: rgb(180, 192, 196);
+    padding:10%;
+    border: 4px;
+    border-style: groove;
+    border-color: black;
+    width: 700px;
+    height: 800px;
+
+}
+
+header{
+    color: green;
+   
+   
+}
+body{
+    background-color: black;
+}

@@ -1,0 +1,74 @@
+*{
+    height: 100%;
+    width:100%;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+}
+
+header,aside,footer{
+    border-style: groove;
+}
+
+header{
+    background-color: antiquewhite;
+    height: 100px;
+    display: flex;
+    flex-wrap: nowrap; /*row wise with no warp*/
+    margin: 5px;
+    border-color: black;
+
+}
+header h1{
+    line-height: 100px;
+    text-align: center;
+}
+nav{
+    display: flex;
+    direction: row;
+}
+a{
+    text-align: center;
+    line-height: 100px;
+    text-decoration: none;
+}
+main{
+    margin: 5px;
+    display: flex;
+    flex: auto;
+    height: max-content;
+    /* this will push the footer and accomodates more content */
+    /* width=auto 100 55 =45 */
+}
+section{
+    text-align: center;
+    border-color: black;
+    border-style: groove;
+    /* order 3 */
+    margin: 5px;
+    height: fit-content;
+}
+#as-left{
+    width: 40%;
+    border-color: black;
+    height: fit-content;
+
+}
+#as-right{
+    text-align: center;
+    width: 30%;
+    border-color: black;
+    height: fit-content;
+}
+footer{
+    text-align: center;
+    margin: 5px;
+    height: 50px;
+    border-color: black;
+    background-color: darkgray;
+
+}

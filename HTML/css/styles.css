@@ -1,0 +1,23 @@
+body{
+background-color:black;
+}
+h1{
+color:white;
+}
+.mytable{
+    background-color: rgb(136, 38, 38);
+    font-size: large;
+    width: 400px;
+    height: 400px;
+}
+th{
+    color: azure;
+}
+#log{
+    color: brown;
+    background-color: black;
+}
+#pas{
+    color: brown;
+    background-color: black;
+}

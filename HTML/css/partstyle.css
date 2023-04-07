@@ -1,0 +1,96 @@
+
+
+.myDivv {
+    border: 2px outset black;
+    width: 99%;
+    text-align: center;
+    padding: 7px;
+  }
+.myDiv1 {
+    border: 2px outset black;
+    width: 98.5%;
+    color: white;
+    background-color: black;
+    text-align: center;
+    padding: 7px;
+  }
+  .myDiv2 {
+    border: 2px outset black;
+    width: 98.5%;
+    color: white;
+    background-color: black;
+    text-align: center;
+    padding: 7px;
+  }
+  .myDiv3 {
+    border: 2px outset black;
+    width: 98.5%;
+    height: 90%;
+    color: white;
+    background-color: black;
+    text-align: center;
+    padding: 7px;
+  }
+  .myDiv31{
+    float: left;
+    border: 2px outset black;
+    width:20%;
+    height:75%;
+    color: black;
+    background-color: grey;
+    padding: 7px;
+
+  }
+  .myDiv32{
+    float: right;
+    border:2px outset black;
+    width:70%;
+    height:85%;
+    color: black;
+    background-color: grey;
+    padding: 7px;
+
+  }
+  .myDiv4 {
+    color: white;
+    border: 2px outset black;
+    width: 98.5%;
+    background-color: black;
+    text-align: center;
+    padding: 7px;
+  }
+  .topnav {
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  /* Navbar links */
+  .topnav a {
+    float: center;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  .navcontent{  
+    float:left; 
+    width:20%;
+    height:75%; 
+    margin-top:30px; 
+    margin-top:30px;
+  }
+
+  .navigator{
+    color: white;
+
+
+  }
+
+  
+  
+  /* Links - change color on hover */
+ /* .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }*/

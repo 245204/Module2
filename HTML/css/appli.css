@@ -1,0 +1,13 @@
+.firstapplication{
+    color: white;
+    background-color: black;
+    width:500px;
+    height:500px;
+    padding: 15px;
+}
+.myalign{
+    text-align: right;
+}
+.myalign2{
+    text-align: left;
+}
